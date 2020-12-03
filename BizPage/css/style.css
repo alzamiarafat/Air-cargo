@@ -314,7 +314,7 @@ h6 {
 .nav-menu,
 .nav-menu * {
   margin: 0;
-  padding: 0;
+  padding: 0px;
   list-style: none;
 
 }
@@ -330,6 +330,7 @@ h6 {
 .nav-menu li {
   position: relative;
   white-space: nowrap;
+  left: 50px;
 }
 
 .nav-menu > li {
@@ -343,7 +344,7 @@ h6 {
 
 .nav-menu ul ul {
   top: 0;
-  left: 100%;
+  left: 100px;
 }
 
 .nav-menu ul li {
